@@ -1,0 +1,30 @@
+title: "ENCCEJA Pandemic Impact Analysis"
+description: "Interactive analysis of COVID-19 impact on Brazilian adult education"
+url: "https://your-username.github.io"
+baseurl: "/encceja-pandemia-impact-analysis"
+
+# GitHub Pages settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Navigation
+header_pages:
+  - README.md
+
+# Analytics (optional - replace with your tracking ID)
+# google_analytics: UA-XXXXXXXXX-X
+
+# SEO
+lang: en_US
+author: "ENCCEJA Analysis Team"
+
+# Exclude from processing
+exclude:
+  - .gitignore
+  - README.md
+  - requirements.txt
+  - notebooks/
+  - src/
+  - data/
