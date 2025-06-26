@@ -96,7 +96,7 @@ data/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/encceja-pandemia-impact-analysis.git
+git clone https://github.com/SEU_USERNAME/encceja-pandemia-impact-analysis.git
 cd encceja-pandemia-impact-analysis
 ```
 
@@ -122,7 +122,7 @@ To enable the interactive dashboard via GitHub Pages:
 4. Choose "main" branch and "/docs" folder
 5. Save settings
 
-Your dashboard will be available at: `https://your-username.github.io/encceja-pandemia-impact-analysis/`
+Your dashboard will be available at: `https://SEU_USERNAME.github.io/encceja-pandemia-impact-analysis/`
 
 ## 📈 Key Results
 
@@ -162,7 +162,7 @@ The analysis includes:
 - Demographic trend analysis
 - Complete HTML dashboard
 
-**Live Dashboard**: [View Interactive Analysis](https://your-username.github.io/encceja-pandemia-impact-analysis/)
+**Live Dashboard**: [View Interactive Analysis](https://SEU_USERNAME.github.io/encceja-pandemia-impact-analysis/)
 
 Local access: `reports/dashboard_complete.html` or `docs/index.html`
 
