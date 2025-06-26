@@ -1,27 +1,45 @@
-# ENCCEJA Pandemic Impact Analysis - Interactive Dashboard
+# Análise do Impacto da Pandemia no ENCCEJA - Dashboard Interativo
 
-This is the live interactive dashboard for the ENCCEJA pandemic impact analysis.
+[![Português](https://img.shields.io/badge/Idioma-Português-green.svg)](../README.md)
+[![English](https://img.shields.io/badge/Language-English-blue.svg)](../README_EN.md)
 
-## 📊 What This Dashboard Shows
+**🇺🇸 [Read this in English](../README_EN.md)**
 
-- Population changes between 2019 and 2023
-- Performance comparisons by knowledge area
-- Demographic shifts analysis
-- Policy implications and recommendations
+## 📊 Dashboard Interativo
 
-## 🔍 How to Use
+Este diretório contém o dashboard interativo da análise do impacto da pandemia de COVID-19 no ENCCEJA.
 
-- **Navigate**: Scroll through different sections
-- **Interact**: Hover over charts for detailed data
-- **Compare**: Use the comparative visualizations to understand trends
+### 🌐 Acesso Online
 
-## 📋 Full Analysis
+O dashboard está disponível online via GitHub Pages:
+**https://alex-des-santos.github.io/encceja-pandemia-impact-analysis/**
 
-For the complete analysis, methodology, and raw data access:
-[Visit the main repository](https://github.com/alex-des-santos/encceja-pandemia-impact-analysis)
+### 💻 Acesso Local
+
+Para visualizar localmente, abra o arquivo `index.html` em seu navegador ou execute:
+
+```bash
+# No diretório raiz do projeto
+cd docs
+python -m http.server 8000
+# Acesse: http://localhost:8000
+```
+
+### � Conteúdo do Dashboard
+
+- **Análise Populacional**: Mudanças na participação entre 2019-2023
+- **Desempenho por Área**: Comparação de aprovação por conhecimento
+- **Impacto da Pandemia**: Visualizações interativas dos efeitos
+- **Comparação PPL vs Regular**: Análise diferenciada por população
+
+### � Voltar ao Projeto
+
+Para informações completas sobre o projeto, metodologia e dados:
+- **[README Principal (Português)](../README.md)**
+- **[README Principal (English)](../README_EN.md)**
 
 ---
 
-**Data Source**: INEP/MEC - Brazilian Ministry of Education  
-**Analysis Period**: 2019 (Pre-pandemic) vs 2023 (Post-pandemic)  
-**Records Analyzed**: 4,296,293 total records
+**Fonte dos Dados**: INEP/MEC - Ministério da Educação do Brasil  
+**Período de Análise**: 2019 (Pré-pandemia) vs 2023 (Pós-pandemia)  
+**Registros Analisados**: 4.296.293 registros totais
