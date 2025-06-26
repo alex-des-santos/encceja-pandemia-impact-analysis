@@ -18,7 +18,7 @@ This is the live interactive dashboard for the ENCCEJA pandemic impact analysis.
 ## 📋 Full Analysis
 
 For the complete analysis, methodology, and raw data access:
-[Visit the main repository](https://github.com/SEU_USERNAME/encceja-pandemia-impact-analysis)
+[Visit the main repository](https://github.com/alex-des-santos/encceja-pandemia-impact-analysis)
 
 ---
 

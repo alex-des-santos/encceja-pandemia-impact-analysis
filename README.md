@@ -122,7 +122,7 @@ To enable the interactive dashboard via GitHub Pages:
 4. Choose "main" branch and "/docs" folder
 5. Save settings
 
-Your dashboard will be available at: `https://SEU_USERNAME.github.io/encceja-pandemia-impact-analysis/`
+Your dashboard will be available at: `https://alex-des-santos.github.io/encceja-pandemia-impact-analysis/`
 
 ## 📈 Key Results
 
